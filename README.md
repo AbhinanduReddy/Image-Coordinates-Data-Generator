@@ -1,6 +1,7 @@
 # Image-Coordinates-Data-Generator
 -Tool made with tkinter for generating dataset of images with particular coordinate location \
 -can be use for generating data for pose detection,face points.\
+![C](https://user-images.githubusercontent.com/43111492/85135686-1eb2ef80-b25c-11ea-902e-abe22c61915d.PNG)
 ## Steps to follow
 -need to change number of coordinates needed in code as per requirements.\
 -output path also sholuld be changed\
