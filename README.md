@@ -2,7 +2,7 @@
 -Tool made with tkinter for generating dataset of images with particular coordinate location \
 -can be use for generating data for pose detection,face points.\
 ![C](https://user-images.githubusercontent.com/43111492/85135686-1eb2ef80-b25c-11ea-902e-abe22c61915d.PNG)
-## otput CSV file
+## output CSV file
 ![dfg](https://user-images.githubusercontent.com/43111492/85162381-e53fab80-b27e-11ea-8baf-651aff814115.PNG)
 ## Steps to follow
 -need to change number of coordinates needed in code as per requirements.\
